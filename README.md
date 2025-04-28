@@ -1,7 +1,7 @@
 # 💳 Online Banking System
 
 A **Java Swing + MySQL** based application for simulating real-world banking operations such as user authentication, transaction management, account creation, and more.  
-Developed as part of the **22AIE111 - Object Oriented Programming in Java** course at **Amrita School of Artificial Intelligence, Amrita Vishwa Vidyapeetham, Coimbatore**.
+
 
 ---
 
