@@ -1,4 +1,4 @@
-# 💳 Online Banking System
+# 💳 Bank Managment System
 
 A **Java Swing + MySQL** based application for simulating real-world banking operations such as user authentication, transaction management, account creation, and more.  
 
