@@ -71,10 +71,11 @@ Each module is linked with **UML diagrams** to ensure clear understanding of flo
 
 ## 🏗️ Database Structure
 
-- **login**: Stores card number and PIN.
-- **signup**: Stores user personal details.
-- **signupthree**: Stores account preferences.
-- **bank**: Stores transaction records.
+The application uses the following tables:
+- `login` — Card number and PIN information.
+- `signup` — Personal user details.
+- `signupthree` — Account preferences.
+- `bank` — Transaction history.
 
 ---
 
