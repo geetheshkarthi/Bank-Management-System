@@ -102,7 +102,6 @@ Each module is linked with **UML diagrams** to ensure clear understanding of flo
 
 ---
 
-## 🧑‍💻 Authors
 
 
 ---
